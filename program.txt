@@ -1,3 +1,5 @@
 Enter sno
 Enter name
 Enter age
+Enter gender
+Enter company
