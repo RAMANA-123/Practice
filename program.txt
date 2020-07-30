@@ -3,3 +3,6 @@ Enter name
 Enter age
 Enter gender
 Enter company
+Enter School name
+Enter Collage name
+
