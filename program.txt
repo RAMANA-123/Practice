@@ -1,0 +1,3 @@
+Enter sno
+Enter name
+Enter age
