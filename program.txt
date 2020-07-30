@@ -3,6 +3,16 @@ Enter name
 Enter age
 Enter gender
 Enter company
+
+
+
+1
+Ramana
+30
+Male
+Company
+=======
 Enter School name
 Enter Collage name
+
 
